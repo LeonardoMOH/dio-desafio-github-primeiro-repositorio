@@ -3,3 +3,10 @@ Val = não muda o valor durante o código
 Const Val = constante que vai ter o valor atribuído durante a execução do código
 Mudar o tipo da variável: toInt(), toFloat() etc
 ##var month:Int? = null ## Interrogação pode ser nulo
+a > b ou a < b: a.compareTo(b)>0 ou a.compareTo(b)<0
+a == b: a.equals(b)
+a != b: !(a.equals(b))
+in:contém
+!in:não contém
+range:faixa de valores (inteiro...inteiro)
+${variavel}
