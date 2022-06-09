@@ -10,3 +10,5 @@ in:contém
 !in:não contém
 range:faixa de valores (inteiro...inteiro)
 ${variavel}
+
+rever últimas aulas
